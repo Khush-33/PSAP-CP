@@ -1,0 +1,36 @@
+Inning,Team,Player,Runs,Balls,4s,6s,StrikeRate,Status
+1,India,Rohit,6,2,0,1,300.00,Out
+1,India,Gill,0,1,0,0,0.00,Out
+1,India,Virat,0,1,0,0,0.00,Out
+1,India,Shreyas,0,1,0,0,0.00,Out
+1,India,Rahul,0,1,0,0,0.00,Out
+1,India,Hardik,18,3,0,3,600.00,Not Out
+1,India,Axar,0,1,0,0,0.00,Out
+1,India,Kuldeep,0,1,0,0,0.00,Out
+1,India,Bumrah,1,2,0,0,50.00,Out
+1,India,Arshdeep,0,1,0,0,0.00,Out
+1,India,Siraj,0,1,0,0,0.00,Out
+
+Inning,1,Australia,Bowler Stats,,
+Bowler,RunsConceded,BallsBowled,Overs,Economy
+Zampa,12,6,1,12.00
+Green,13,6,1,13.00
+Starc,0,3,0,0.00
+
+2,Australia,Head,0,1,0,0,0.00,Out
+2,Australia,Marsh,0,0,0,0,0.00,-
+2,Australia,Marnus,0,1,0,0,0.00,Out
+2,Australia,Smith,0,1,0,0,0.00,Out
+2,Australia,Maxwell,0,1,0,0,0.00,Out
+2,Australia,Pat,0,1,0,0,0.00,Out
+2,Australia,Starc,0,1,0,0,0.00,Out
+2,Australia,Hazlewood,0,1,0,0,0.00,Out
+2,Australia,Zampa,4,3,1,0,133.33,Out
+2,Australia,Boland,0,1,0,0,0.00,Out
+2,Australia,Green,0,0,0,0,0.00,Not Out*
+
+Inning,2,India,Bowler Stats,,
+Bowler,RunsConceded,BallsBowled,Overs,Economy
+Hardik,0,6,1,0.00
+Bumrah,4,5,0,4.80
+
